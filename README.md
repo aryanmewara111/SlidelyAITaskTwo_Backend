@@ -9,7 +9,7 @@ Git
 Node.js (which includes npm)
 Installation
 1. Clone the Repository
- git clone https://github.com/aryanmewara111/slidelyai_backend_server.git
+ git clone https://github.com/aryanmewara111/SlidelyAITaskTwo_Backend.git
 
 2. Change Directory
 Move into the directory where the repository was cloned:
